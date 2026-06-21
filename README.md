@@ -4,7 +4,7 @@ A simple Chrome extension that displays upcoming coding contests from various pl
 
 ## 📸 Screenshot
 
-![Screenshot](screenshots/preview.png)
+![Screenshot](Screenshots/preview.png)
 
 ## ✨ Features
 
